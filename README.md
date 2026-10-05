@@ -47,7 +47,7 @@ Each upload gets its own collection, so two people using the app at once never s
 
 ## Setup
 
-Needs Python 3.10 to 3.13.
+Needs Python 3.10 to 3.13 (on Streamlit Cloud, pick 3.13 under Advanced settings; newer versions are not supported by CrewAI).
 
 ```bash
 python3.12 -m venv .venv
